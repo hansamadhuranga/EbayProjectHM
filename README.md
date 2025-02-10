@@ -1,5 +1,5 @@
 Get started
-Clone the project first. ()
+Clone the project first. (https://github.com/hansamadhuranga/EbayProjectHM.git)
 
 Open the project in an IDE Eclipse.
 
