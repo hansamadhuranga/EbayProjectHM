@@ -5,7 +5,7 @@ Open the project in an IDE Eclipse.
 
 Open the IDE and execute in TestNg.
 
-Then execute the file called "EbaYTest.java" in the src.
+Then execute the file called "EbayTest.java" in the src.
 
 Prerequisites
 java
